@@ -5,5 +5,6 @@ int main() {
    s=z*z*z;
    printf("%d",s);
    printf("calculator");
+   printf("misuse");
    return 0;
 }
